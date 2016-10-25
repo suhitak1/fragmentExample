@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Example</string>
+    <string name="button_red">RED</string>
+    <string name="button_black">BLACK</string>
+    <string name="button_green">GREEN</string>
+    <string name="button_blue">BLUE</string>
+    <string name="button_grey">GREY</string>
+</resources>
